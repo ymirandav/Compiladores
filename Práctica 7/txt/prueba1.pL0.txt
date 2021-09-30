@@ -1,0 +1,17 @@
+-Hola mundo
+
+Hola mundo
+
+n = 2
+m = 3
+
+OUI n < m{
+	x = menor
+}
+
+POUR i := 0; i < 10; i++ {
+	x = 0
+}
+
+if a + b{
+}  
